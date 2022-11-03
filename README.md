@@ -1,4 +1,4 @@
-![Banner](https://images.ctfassets.net/3viuren4us1n/1zxVCESytLAHknNkWamDVE/163c7af412ce4d78f7e0d9aa5dad9edb/qa-hero.jpg)
+![SQA Banner](https://images.ctfassets.net/3viuren4us1n/1zxVCESytLAHknNkWamDVE/163c7af412ce4d78f7e0d9aa5dad9edb/qa-hero.jpg)
 
 # Hi, I'm Md. Saidur Rahman Shovon 👋
 #### 💫 An Enthusiastic SQA Engineer
